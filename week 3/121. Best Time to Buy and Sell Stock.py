@@ -12,3 +12,5 @@ def maxProfit(List):
             result = 0
         else: result = max - min
         return result
+
+maxProfit([1,2,3,4,5])
